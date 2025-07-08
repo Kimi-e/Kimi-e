@@ -52,7 +52,7 @@ I'm transitioning from a hands-on engineering background into the world of **Dat
 | 📁 Project | 🧩 Description | 🔧 Tools |
 |-----------|----------------|---------|
 | [Smart Dustbin IoT](link_to_repo) | Real-time waste level monitoring using ultrasonic sensors & Blynk | Arduino, ESP8266, Blynk, Python |
-| [Manufacturing Production Dashboard](link_to_repo) | Cleaned & analyzed production data with KPIs in Power BI | SQL, Python, Power BI |
+| [Marketing Analytic Dashboard](https://github.com/Kimi-e/Marketing-Analytics) | Cleaned & analyzed marketing data with KPIs in Power BI | SQL, Python, Power BI |
 | [FinTech Fraud Detection](link_to_repo) | Identified suspicious patterns in transaction data | pandas, seaborn, matplotlib |
 | [IoT Device Monitoring System](link_to_repo) | Monitored device activity using MQTT & Node-RED | MQTT, Node-RED, MySQL |
 
