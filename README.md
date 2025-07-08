@@ -42,7 +42,7 @@ I'm transitioning from a hands-on engineering background into the world of **Dat
 
 ## 📜 Certifications
 
-- 🎓 **[DataCamp Certifications](https://www.datacamp.com/portfolio/NIKHAKIMI)** – Python, SQL, Data Analysis & Visualization
+- 🎓 **[DataCamp Certifications](https://www.datacamp.com/portfolio/nahfnz)** – Python, SQL, Data Analysis & Visualization
 - 🛠 **Cyber-Physical Systems (CPS) Certificate** – Industrial IoT, Python, MQTT, Node-RED, Smart Automation
 
 ---
