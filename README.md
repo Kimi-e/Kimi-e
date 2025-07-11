@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi there, I'm Nik Hakimi!
 
-🎯 **Aspiring Data Analyst** | 🎓 Manufacturing Engineering Graduate  
+🎯 **Data Analyst** | 🎓 Manufacturing Engineering Graduate  
 📈 Passionate about turning raw data into real-world business insights
 
 ---
