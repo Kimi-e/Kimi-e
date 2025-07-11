@@ -62,7 +62,7 @@ I'm transitioning from a hands-on engineering background into the world of **Dat
 |-----------|----------------|---------|
 | [Smart Dustbin IoT](link_to_repo) | Real-time waste level monitoring using ultrasonic sensors & Blynk | Arduino, ESP8266, Blynk, Python |
 | [Marketing Analytic Dashboard](https://github.com/Kimi-e/Marketing-Analytics) | Cleaned & analyzed marketing data with KPIs in Power BI | SQL, Python, Power BI |
-| [FinTech Fraud Detection](link_to_repo) | Identified suspicious patterns in transaction data | pandas, seaborn, matplotlib |
+| [Fraud Detection (M/L)](https://github.com/Kimi-e/Fraud-Detection-Using-Machine-Learning) | Create a web apps based on teh predictiob model to identified suspicious patterns in transaction data | pandas, seaborn, matplotlib,scikit-learn,streamlit |
 | [Banking Analytic Dashboard](https://github.com/Kimi-e/Banking-Analysis) | Perform Banking EDA & analyzed the banking data KPI in Power BI| SQL, Python, Power BI |
 
 > 📌 *Each repository contains code, documentation, and insights to reflect real-world data challenges.*
