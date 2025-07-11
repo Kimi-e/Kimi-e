@@ -34,7 +34,7 @@ I'm transitioning from a hands-on engineering background into the world of **Dat
 
 ![Status](https://img.shields.io/badge/Current%20Project%20Status-In%20Progress-yellow)
 
-🔭 I’m currently working on ###FRAUD DETECTION USING ML
+🔭 I’m currently working on [FRAUD DETECTION USING ML](https://github.com/Kimi-e/Fraud-Detection-Using-Machine-Learning)
 
 ---
 
