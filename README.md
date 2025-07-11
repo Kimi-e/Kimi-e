@@ -33,7 +33,7 @@ I'm transitioning from a hands-on engineering background into the world of **Dat
 
 - **Languages**: Python 🐍 (pandas, numpy, seaborn, matplotlib), SQL 🧮 (MySQL)
 - **Databases**: MySQL, MQTT
-- **Visualization**: Power BI 📊
+- **Visualization**: Power BI 📊 , Tableau (Learning)
 - **Other**: Excel (Advanced), Jupyter Notebook 📒, Git & GitHub 🧑‍💻
 - **IoT & Automation**: Arduino, ESP8266, Blynk, Node-RED, PLC, IIoT, CNC Remote Control ⚙️
 - **Cloud & Networking**: Basic Linux, server management, networking fundamentals ☁️
