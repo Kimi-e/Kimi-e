@@ -60,10 +60,11 @@ I'm transitioning from a hands-on engineering background into the world of **Dat
 
 | 📁 Project | 🧩 Description | 🔧 Tools |
 |-----------|----------------|---------|
-| [Smart Dustbin IoT](link_to_repo) | Real-time waste level monitoring using ultrasonic sensors & Blynk | Arduino, ESP8266, Blynk, Python |
+| [Smart Dustbin IoT](https://github.com/Kimi-e/Smart-Dustbin-IoT-Project-) | Integrated ultrasonic sensors, microcontrollers, DHT sensors, and an LCD to create an automated bin that displays the current temperature and can be controlled using Blynk. | Arduino, ESP8266, Blynk, Python |
 | [Marketing Analytic Dashboard](https://github.com/Kimi-e/Marketing-Analytics) | Cleaned & analyzed marketing data with KPIs in Power BI | SQL, Python, Power BI |
 | [Fraud Detection (M/L)](https://github.com/Kimi-e/Fraud-Detection-Using-Machine-Learning) | Create a web apps based on the prediction model to identified suspicious patterns in transaction data | pandas, seaborn, matplotlib,scikit-learn,streamlit |
 | [Banking Analytic Dashboard](https://github.com/Kimi-e/Banking-Analysis) | Perform Banking EDA & analyzed the banking data KPI in Power BI| SQL, Python, Power BI |
+| [Credit Card Fraud Detection](https://github.com/Kimi-e/Credit-Card-Fraud-Detection-M-L-) | Created a Random Forest model that achieved 99% accuracy and identified the key features contributing to fraud detection. |Python, Random Forest |
 
 > 📌 *Each repository contains code, documentation, and insights to reflect real-world data challenges.*
 
