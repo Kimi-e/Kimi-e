@@ -64,7 +64,7 @@ I'm transitioning from a hands-on engineering background into the world of **Dat
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nahfnz)
 - 📧 Email: nikhakimi.work@example.com  
-- 🌐 [DataCamp Portfolio](https://www.datacamp.com/portfolio/NIKHAKIMI)
+- 🌐 [DataCamp Portfolio](https://www.datacamp.com/portfolio/nahfnz)
 
 Thanks for visiting! Don’t forget to ⭐ your favorite project!
 
