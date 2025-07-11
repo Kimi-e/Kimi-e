@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I’m currently working on FRAUD DETECTION USING ML
+
 <!--
 **Kimi-e/Kimi-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,6 +33,8 @@ I'm transitioning from a hands-on engineering background into the world of **Dat
 ## 🚧 Current Project Status
 
 ![Status](https://img.shields.io/badge/Current%20Project%20Status-In%20Progress-yellow)
+
+🔭 I’m currently working on FRAUD DETECTION USING ML
 
 ---
 
